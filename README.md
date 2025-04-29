@@ -117,16 +117,3 @@ Some ideas for future work include:
 1. Customer Segmentation: Develop a customer segmentation analysis to group customers based on their purchase behavior, demographics, and other attributes.
 
 
-# Repository Structure
-
-***
-<pre>
-   .
-   └──sales_and_product_management/
-      ├── README.md                                            Overview for project reviewers  
-      ├── queries/                                             Includes SQL queries 
-      ├── tables/                                              Includes tables used in the model  
-      ├── dashboards/                                          Includes PowerBI files   
-      ├── requirements/                                        Includes requirements of this project and instructions to obtain the dataset
-      ├── images/                                              Includes images related to the project
-      └── .gitignore                                           Specifies intentionally untracked files
